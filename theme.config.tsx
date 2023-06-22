@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/Adri-Hdez/Preln',
   },
-  chat: false,
+  chat: null,
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
     text: 'Preln, a package for preprocessing text in spanish.',
