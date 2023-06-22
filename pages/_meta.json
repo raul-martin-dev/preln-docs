@@ -13,7 +13,8 @@
     },
     "docs": {
       "title": "Docs",
-      "type": "page"
+      "type": "page",
+      "href": "https://preln-docs.foreem.com/docs"
     },
     "contact": {
       "title": "Contact Us",

@@ -1,20 +1,12 @@
 {
-    "index": "Introduction",
-    "guide": "",
-    "-- Themes": {
-      "type": "separator",
-      "title": "Themes"
+    "index": {
+        "title":"Introduction"
     },
-    "docs-theme": "",
-    "blog-theme": "",
-    "custom-theme": "",
-    "-- More": {
-      "type": "separator",
-      "title": "More"
+    "page1": {
+        "title":"Page 1"
     },
-    "next.js-link": {
-      "title": "Next.js Docs ↗",
-      "href": "https://nextjs.org?utm_source=nextra.site&utm_medium=referral&utm_campaign=sidebar",
-      "newWindow": true
+    "page2": {
+        "title":"Page 2"
     }
+
   }
