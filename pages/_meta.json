@@ -7,7 +7,8 @@
         "breadcrumb": false,
         "footer": true,
         "sidebar": false,
-        "pagination": false
+        "pagination": false,
+        "gitTimestamp": false
       }
     },
     "docs": {
@@ -17,7 +18,7 @@
     "contact": {
       "title": "Contact Us",
       "type": "page",
-      "href": "https://example.com/contact",
+      "href": "https://www.linkedin.com/in/ra%C3%BAl-mart%C3%ADn-rigor/",
       "newWindow": true
     }
   }
