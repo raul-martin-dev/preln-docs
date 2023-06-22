@@ -2,6 +2,11 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s - Preln'
+    }
+  },
   logo: <span>Preln</span>,
   project: {
     link: 'https://github.com/Adri-Hdez/Preln',
