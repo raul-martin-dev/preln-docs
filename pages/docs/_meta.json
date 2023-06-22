@@ -8,8 +8,7 @@
     "page2": {
         "title":"Page 2",
         "theme": {
-            "sidebar": false,
-            "footer": false
+            
         }
     }
 
