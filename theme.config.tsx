@@ -18,6 +18,7 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'Preln, a package for preprocessing text in spanish.',
   },
+  gitTimestamp : false,
 }
 
 export default config
