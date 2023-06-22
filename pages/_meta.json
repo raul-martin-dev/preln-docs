@@ -13,8 +13,7 @@
     },
     "docs": {
       "title": "Docs",
-      "type": "page",
-      "href": "/docs"
+      "type": "page"
     },
     "contact": {
       "title": "Contact Us",
