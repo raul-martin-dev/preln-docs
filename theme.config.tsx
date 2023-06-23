@@ -9,9 +9,7 @@ const config: DocsThemeConfig = {
   },
   logo: 
   <div>
-    <div style="
-    display: flex;
-    ">
+    <div style={{ display: "flex" }}>
       <svg 
         height="30"
         width="40"
