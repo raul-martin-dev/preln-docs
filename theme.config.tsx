@@ -25,7 +25,7 @@ const config: DocsThemeConfig = {
       </svg>
     </div>
     <div style={{ margin: "auto auto auto 15%" }}>
-      Preln
+      <b>Preln</b>
     </div>
   </div>,
   project: {
