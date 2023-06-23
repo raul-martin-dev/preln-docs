@@ -10,8 +10,9 @@ const config: DocsThemeConfig = {
   logo: 
   <span>
     <svg 
-      height="20"
-      viewBox="0 0 361 70"
+      height="30"
+      width="40"
+      viewBox="0 0 500 500"
       fill="none"
       xmlns="http://www.w3.org/2000/svg">
 
