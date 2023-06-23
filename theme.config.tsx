@@ -22,6 +22,7 @@ const config: DocsThemeConfig = {
       stroke="currentColor"
       />
     </svg>
+    <br></br>
     Preln
   </span>,
   project: {
