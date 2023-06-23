@@ -24,7 +24,7 @@ const config: DocsThemeConfig = {
         />
       </svg>
     </div>
-    <div style={{ margin: "0 0 20 0" }}>
+    <div style={{ "margin-right": "20%" }}>
       Preln
     </div>
   </div>,
