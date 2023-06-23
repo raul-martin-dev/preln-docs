@@ -6,10 +6,7 @@
         "title":"Page 1"
     },
     "page2": {
-        "title":"Page 2",
-        "theme": {
-            
-        }
+        "title":"Page 2"
     }
 
   }
