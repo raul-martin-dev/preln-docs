@@ -8,8 +8,8 @@ const config: DocsThemeConfig = {
     }
   },
   logo: 
-  <div>
-    <div>
+  <div style="display: flex;">
+    <div style="flex: 1; margin-right: 20%;">
       <svg 
         height="30"
         width="40"
@@ -24,7 +24,7 @@ const config: DocsThemeConfig = {
         />
       </svg>
     </div>
-    <div>
+    <div style="flex: 1;">
       Preln
     </div>
   </div>,
